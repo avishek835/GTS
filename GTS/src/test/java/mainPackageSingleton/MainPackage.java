@@ -232,6 +232,7 @@ public class MainPackage {
 		Instance.findElement(By.xpath(Configuration.Technology.technology)).click();
 	}*/
 	
+	
 	public static void Industries() throws InterruptedException
 	{
 		Actions act= new Actions(Instance);
